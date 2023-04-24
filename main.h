@@ -21,6 +21,7 @@
 /**
  * struct fmt - Struct op
  *
+ * By Olayinka Adedeji and Abimbola Asala 
  * @fmt: The format.
  * @fn: The function associated.
  */
