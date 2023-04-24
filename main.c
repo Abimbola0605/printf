@@ -5,6 +5,7 @@
 /**
  * main - Entry point
  *
+ * By Olayinka Adedeji and Abimbola Asala 
  * Return: Always 0
  */
 int main(void)
